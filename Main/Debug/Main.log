@@ -1,0 +1,58 @@
+﻿  Main.cpp
+H:\Quang ly may bay do an\Main\AVLtree.h(420,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\AVLtree.h(457,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\AVLtree.h(1109,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\AVLtree.h(1146,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\AVLtree.h(1411,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\AVLtree.h(1448,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\AVLtree.h(1339,5): warning C4102: 'back': unreferenced label
+H:\Quang ly may bay do an\Main\flight.h(79,19): warning C4101: 'q': unreferenced local variable
+H:\Quang ly may bay do an\Main\flight.h(123,7): warning C4101: 'c': unreferenced local variable
+H:\Quang ly may bay do an\Main\flight.h(687,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\flight.h(746,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\flight.h(572,16): warning C4101: 'v': unreferenced local variable
+H:\Quang ly may bay do an\Main\flight.h(1249,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\flight.h(1307,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\flight.h(1995,19): warning C4101: 'q': unreferenced local variable
+H:\Quang ly may bay do an\Main\flight.h(2307,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\flight.h(2365,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\flight.h(2177,5): warning C4102: 'back': unreferenced label
+H:\Quang ly may bay do an\Main\readandwritefile.h(102,16): warning C4101: 'p': unreferenced local variable
+H:\Quang ly may bay do an\Main\readandwritefile.h(152,7): warning C4101: 'a': unreferenced local variable
+H:\Quang ly may bay do an\Main\plane.h(31,7): warning C4101: 'c': unreferenced local variable
+H:\Quang ly may bay do an\Main\plane.h(160,7): warning C4102: 'back': unreferenced label
+H:\Quang ly may bay do an\Main\plane.h(137,7): warning C4101: 'c': unreferenced local variable
+H:\Quang ly may bay do an\Main\plane.h(331,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(372,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(678,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(719,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(1372,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(1413,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(1672,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(1713,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\plane.h(1601,5): warning C4102: 'back': unreferenced label
+H:\Quang ly may bay do an\Main\thongke.h(206,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\thongke.h(264,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\thongke.h(1065,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\thongke.h(1123,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\thongke.h(1456,12): warning C4101: 'y': unreferenced local variable
+H:\Quang ly may bay do an\Main\thongke.h(1456,9): warning C4101: 'x': unreferenced local variable
+H:\Quang ly may bay do an\Main\bookticket.h(116,6): warning C4102: 'main': unreferenced label
+H:\Quang ly may bay do an\Main\bookticket.h(540,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\bookticket.h(598,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\bookticket.h(1298,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\bookticket.h(1356,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\bookticket.h(1820,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\bookticket.h(1859,23): warning C4018: '<': signed/unsigned mismatch
+H:\Quang ly may bay do an\Main\bookticket.h(1686,5): warning C4102: 'main': unreferenced label
+H:\Quang ly may bay do an\Main\Main.cpp(17,1): warning C4005: 'boxs': macro redefinition
+H:\Quang ly may bay do an\Main\Box.h(11): message : see previous definition of 'boxs'
+H:\Quang ly may bay do an\Main\Main.cpp(25,14): warning C4101: 'ds': unreferenced local variable
+H:\Quang ly may bay do an\Main\Main.cpp(22,16): warning C4101: 'First': unreferenced local variable
+H:\Quang ly may bay do an\Main\Main.cpp(23,14): warning C4101: 'ds_cb': unreferenced local variable
+H:\Quang ly may bay do an\Main\AVLtree.h(908): warning C4715: 'yes_no_hk': not all control paths return a value
+H:\Quang ly may bay do an\Main\flight.h(2094): warning C4715: 'yes_no_fl': not all control paths return a value
+H:\Quang ly may bay do an\Main\plane.h(1168): warning C4715: 'yes_no': not all control paths return a value
+H:\Quang ly may bay do an\Main\bookticket.h(1123): warning C4715: 'yes_no_ve': not all control paths return a value
+H:\Quang ly may bay do an\Main\bookticket.h(2152): warning C4715: 'lua_chon_gt': not all control paths return a value
+  Main.vcxproj -> H:\Quang ly may bay do an\Debug\quanlymaybay.exe
